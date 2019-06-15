@@ -1,0 +1,23 @@
+commit 49e832a4a5489c36e2285581e96b07226a04e656
+Author: Alexander1026 <alexander@nelson-family.com>
+Date:   Sat Jun 15 12:48:10 2019 -0700
+
+    modified .gitignore
+
+commit fb72f5773f8d810ab4b391a98844b9224b173bbe
+Author: Alexander1026 <alexander@nelson-family.com>
+Date:   Sat Jun 15 12:33:57 2019 -0700
+
+    added gitignore
+
+commit a3ab316373ebf277981b606f0be9dc50f9410267
+Author: Alexander1026 <alexander@nelson-family.com>
+Date:   Sat Jun 15 12:07:27 2019 -0700
+
+    added two files
+
+commit 30893e6c196590b4583b44e2a1d3f6e6715ea026
+Author: Alexander1026 <alexander@nelson-family.com>
+Date:   Sat Jun 15 12:04:40 2019 -0700
+
+    added readme.txt
